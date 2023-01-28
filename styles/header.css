@@ -36,3 +36,7 @@
     padding: 1em;
     background-color: var(--branco);
 }
+
+.lista-menu__item {
+    color: var(--laranja);
+}
