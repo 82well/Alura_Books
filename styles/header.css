@@ -38,8 +38,9 @@
     background-color: var(--branco);
 }
 
-.lista-menu__item {
+.lista-menu__titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu__link {
