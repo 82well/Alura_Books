@@ -107,5 +107,9 @@
         display: block;
         width: auto;
     }
+
+    .opções__botão{
+        display: none;
+    }
 }
 
